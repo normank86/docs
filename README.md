@@ -5,7 +5,7 @@ title: RefTracker
 
 # RefTracker
 
-**RefTracker** is a match management app designed for grassroots and competitive soccer referees.
+**RefTracker** is a match management app designed for grassroots and competitive soccer referees.  
 
 Track matches, goals, cards, and match events in real time — directly from your iPhone and Apple Watch.
 
