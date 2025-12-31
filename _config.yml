@@ -1,3 +1,4 @@
-theme: jekyll-theme-minimal
-title: Reftracker homepage
-description: Bookmark this to keep an eye on my project updates!
+title: RefTracker
+description: Match tracking for soccer referees
+theme: minima
+markdown: kramdown
