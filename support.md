@@ -1,30 +1,34 @@
 ---
 layout: default
 title: Support
+permalink: /support/
 ---
 
-# RefTracker Support
+# Support
 
-Thanks for using **RefTracker**.
-
-If you need help, have a question, or want to report an issue, this is the best place to start.
-
----
-
-## Get Help
-- Check the [FAQ](faq.md) for common questions
-- Submit feature ideas or bugs via GitHub Issues  
-  👉 https://github.com/kentnorman/reftrackerapp/issues
+Need help with RefTracker? We’re happy to assist.
 
 ---
 
-## Contact
-For support-related inquiries, please open an issue on GitHub with:
-- Device model
+## Contact Support
+
+For bug reports, feature requests, or general questions, please email:
+
+📧 **[support@reftracker.app](mailto:support@reftracker.app)**
+
+When possible, include:
+- Your device (iPhone / Apple Watch)
 - iOS / watchOS version
-- App version
-- Description of the issue
+- A brief description of the issue
 
 ---
 
-We aim to respond as quickly as possible.
+## Feature Requests
+
+We welcome feedback from referees at all levels. If you have ideas for improving RefTracker, send them our way.
+
+---
+
+## Response Time
+
+We aim to respond as quickly as possible, typically within 1–2 business days.
