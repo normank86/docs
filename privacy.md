@@ -10,6 +10,8 @@ permalink: /privacy/
 
 RefTracker (“the App”) respects your privacy. This Privacy Policy explains how information is handled when you use the RefTracker app and related services.
 
+This page applies to **RefTracker** only. For GridGrab privacy details, see [/gridgrab/privacy/](/gridgrab/privacy/).
+
 ---
 
 ## Information We Collect

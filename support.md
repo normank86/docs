@@ -6,26 +6,30 @@ permalink: /support/
 
 # Support
 
-Need help with RefTracker? We’re happy to assist.
+Need help with RefTracker or GridGrab? We are happy to assist.
 
 ---
 
 ## Contact Support
 
-For bug reports, feature requests, or general questions, please email:
+For bug reports, feature requests, or general questions for either app, please email:
 
-📧 **[support@reftracker.app](mailto:support@reftracker.app)**
+**[support@reftracker.app](mailto:support@reftracker.app)**
 
 When possible, include:
-- Your device (iPhone / Apple Watch)
-- iOS / watchOS version
+- App name (RefTracker or GridGrab)
+- Your device (iPhone, iPad, Apple Watch)
+- iOS / iPadOS / watchOS version
 - A brief description of the issue
 
 ---
 
 ## Feature Requests
 
-We welcome feedback from referees at all levels. If you have ideas for improving RefTracker, send them our way.
+We welcome feedback and ideas for both apps.
+
+- RefTracker: suggestions from referees, assignors, and match officials
+- GridGrab: gameplay tuning, accessibility feedback, and quality-of-life ideas
 
 ---
 
