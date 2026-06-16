@@ -1,4 +1,10 @@
 title: RefTracker + GridGrab
 description: Home for RefTracker and GridGrab on iOS
-theme: minima
 markdown: kramdown
+url: "https://reftracker.app"
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - netlify.toml
